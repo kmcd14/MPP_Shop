@@ -37,10 +37,10 @@ The programme is a simulation of a shop and processed customer orders. The follo
 - ```report.pdf``` which compares the similarities and differences between the procedural and the object-oriented approach.
 
 - There are serveral CSV files which are test customer order files.
-        1. ```customer.csv``` - This was provided in the downloaded project folder. It is a valid customer order and contains a product not stocked in the shop.
-        2. ```not_enough.csv``` - A customer order which cannot be fulfilled due to the customer ordering a quantity of Big Bags greater than the shop stocks.
-        3. ```low_funds.csv``` - A customer order which cannot be fulfilled due to the customer not having enough cash to purchase their order.
-        4. ```valid_order.csv``` - A valid customer order which can be fulfilled.   
+	- ```customer.csv``` - This was provided in the downloaded project folder. It is a valid customer order and contains a product not stocked in the shop.
+        - ```not_enough.csv``` - A customer order which cannot be fulfilled due to the customer ordering a quantity of Big Bags greater than the shop stocks.
+        - ```low_funds.csv``` - A customer order which cannot be fulfilled due to the customer not having enough cash to purchase their order.
+        - ```valid_order.csv``` - A valid customer order which can be fulfilled.   
 
 * Note: ```customer.csv``` and ```valid_order.csv``` may only be vaild and fulfilled if processed once depending on updated shop stock quantity.
 
