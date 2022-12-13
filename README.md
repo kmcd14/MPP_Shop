@@ -53,4 +53,8 @@ The programme is a simulation of a shop and processed customer orders. The follo
 3. Open your terminal and navigate to the location where you want to store the cloned directory.
 4. In the terminal type the command and press enter. The cloned repository is now on your machine:
 
+```
+
   $git clone git@github.com:kmcd14/MMP_Shop.git
+
+```
